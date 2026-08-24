@@ -75,10 +75,4 @@ I am a Computer Science graduate and Full-Stack Developer with hands-on experien
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishazmi&show_icons=true&theme=radical&hide_border=true" alt="Haris's GitHub Stats" />
-</p>
-
----
