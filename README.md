@@ -6,7 +6,6 @@ I am a Computer Science graduate and Full-Stack Developer with hands-on experien
 
 ### 🛠️ Technologies & Tools
 
-<!-- You can use shields.io or tech icons like the ones in your example -->
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
@@ -28,10 +27,10 @@ I am a Computer Science graduate and Full-Stack Developer with hands-on experien
 ### 📬 How to Reach Me
 
 <p>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hazmiharis110@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/harishazmi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
